@@ -1,0 +1,4 @@
+# main.c is not always completed, so please ignore it.
+# .out files should be ignored for the same reasone as described above.
+programming-contest-strategy/main.c
+programming-contest-strategy/*.out
