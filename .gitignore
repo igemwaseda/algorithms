@@ -3,3 +3,4 @@
 programming-contest-strategy/main.c
 programming-contest-strategy/*.out
 atcoder/*.out
+atcoder/*.c
